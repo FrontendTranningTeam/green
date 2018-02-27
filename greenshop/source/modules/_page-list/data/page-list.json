@@ -6,6 +6,12 @@
       },{
         "title": "header",
         "url": "header"
+      },{
+        "title": "banner",
+        "url": "banner"
+      },{
+        "title": "sidebar general",
+        "url": "sidebar-general"
       }
     ]
   }
